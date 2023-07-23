@@ -1,0 +1,16 @@
+{
+  "name": "com.il.tequila",
+  "version": "2023.7.23",
+  "description": "Useful tools for Unity.",
+  "displayName": "Tequila",
+  "author": {
+    "name": "Iaroslav Lakhin",
+    "email": "iaroslav.lakhin@gmail.com"
+  },
+  "keywords": [
+    "Extensions",
+    "Scopes",
+    "Utilities"
+  ],
+  "license": "MIT"
+}
